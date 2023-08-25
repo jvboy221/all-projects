@@ -1,0 +1,33 @@
+body{
+    font-family: "lato-regular";
+}
+.border-div{
+    border: 2px solid black;
+}
+
+h1{
+    margin-bottom: 0px;
+}
+@font-face {
+    font-family: lato-regular;
+    src: url(../font/Lato-Regular.ttf);
+}
+
+.ff-lato-regular {
+    font-family: lato-regular;
+}
+@font-face {
+    font-family: lato-Bold;
+    src: url(../font/Lato-Bold.ttf);
+}
+
+.ff-lato-regular {
+    font-family: lato-Bold;
+}
+.bg-image{
+    background-image: url(../img/SynergyBionutritionals.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 1080px;
+}

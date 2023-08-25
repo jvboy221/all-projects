@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<title>Downsell-Goddess Molecule</title>
+<meta http-equiv=X-UA-Compatible content="IE=edge">
+<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+<meta name=viewport content="width=device-width, initial-scale=1">
+<link rel=preconnect href=https://fonts.googleapis.com>
+<link rel=preconnect href=https://fonts.gstatic.com crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel=stylesheet>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100;0,400;0,500;0,600;0,700;0,800;1,100;1,400;1,500;1,600&display=swap" rel=stylesheet>
+<script src=https://www.google.com/recaptcha/api.js async defer></script>
+<link href=./css/bootstrap.min.css rel=stylesheet>
+<link href=./css/contact_us.css rel=stylesheet>
+<link href=./css/global.css rel=stylesheet>
+<link href=./css/common.css rel=stylesheet>
+</head>
+<body>
+<div class=container id>
+<div class=modal-content>
+<div class=modal-body>
+<div class="d-flex flex-column text-center">
+<div>
+<h1 class="privacy-policy magenta">CONTACT US</h2>
+</div>
+</div>
+<div>
+<p class=privacies>
+<b>Contact Us</u></b>
+</p>
+<p>
+Email:support@synergynature.com
+Phone:(307) 202-8697
+</p>
+<p>
+For Order Support, please contact HERE. <a href=https://www.buygoods.com/orderlookup>Order Lookup - BuyGoods</a><br/>
+For product support contact us using the contact form below.
+</p>
+</div>
+<form name=contact-form action=validate-captcha.php method=post id=contact-form>
+<div class=form-group>
+<label for=Name>First Name</label>
+<input type=text class=form-control name=first_name placeholder required>
+</div>
+<div class=form-group>
+<label for=Name>Last Name</label>
+<input type=text class=form-control name=last_name placeholder required>
+</div>
+<div class=form-group>
+<label for=exampleInputEmail1>Email address</label>
+<input type=email class=form-control name=email placeholder required>
+</div>
+<div class=form-group>
+<label for=Phone>Phone</label>
+<input type=number class=form-control name=phone placeholder required>
+</div>
+<div class=form-group>
+<label for=shipping>Shipping Address</label>
+<input type=text class=form-control name=shipping_address placeholder required>
+</div>
+<div class=form-group>
+<label for=state>State</label>
+<input type=text class=form-control name=state placeholder required>
+</div>
+<div class=form-group>
+<label for=zip_code>Zip Code</label>
+<input type=number class=form-control name=zip_code placeholder required>
+</div>
+<div class=form-group>
+<label for=order_number>Order Number</label>
+<input type=number class=form-control name=order_number placeholder required>
+</div>
+<div class=form-group>
+<label for=items>Items</label>
+<textarea name=items class=form-control rows=3 cols=28 rows=5 placeholder required></textarea>
+</div>
+<div class=form-group>
+<label for=qty_items>Quantity of Items</label>
+<input type=number class=form-control name=qty_items placeholder required>
+</div>
+<div class=g-recaptcha data-sitekey=6Ldd2ZIfAAAAAD7eNIq5KX6A7tXKhjXh1cxnrJ7q></div><br>
+<button type=submit class="btn btn-primary" name=submit value=Submit id=submit_form>Submit</button>
+</form>
+<div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

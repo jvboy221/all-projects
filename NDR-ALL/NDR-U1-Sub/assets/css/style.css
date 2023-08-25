@@ -1,0 +1,471 @@
+/* Header */
+.main-head{
+    max-width: 1920px;
+}
+
+.btn {
+    background: transparent linear-gradient(90deg, #FFE600 0%, #FFC400 180%) 0% 0% no-repeat padding-box;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 290px;
+    width: 80%;
+    color: #000;
+    padding: 15px 15px;
+    align-items: center;
+}
+.btn-3 {
+    background: transparent linear-gradient(190deg, #FFE600 10%, #FFC400 90%) 0% 0% no-repeat padding-box;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 400px;
+    width: 100%;
+    color: #000;
+    padding: 15px 15px;
+    align-items: center;
+    border: #c68a06;
+}
+.btn-3 img{
+    max-width: 50px;
+    width: 5%;
+    margin-right: -30px;
+}
+.btn-4 {
+    max-width: 10px!important;
+    width: 3%;
+    margin-right: 10px!important;
+}
+.btn img{
+    max-width: 44px;
+    width: 5%;
+    margin-right: -30px;
+}
+.btn:hover {
+    cursor: pointer;
+    background-image: linear-gradient(89deg,#c68a06 0%,#ee9100 100%)!important;
+}
+.btn-3:hover {
+    cursor: pointer;
+    background-image: linear-gradient(89deg,#c68a06 0%,#ee9100 100%)!important;
+}
+.btn-2 img:hover {
+    opacity: 0.9;
+}
+.h-1 {
+    background-image: url(../img/Artboard-1/header.png);
+    background-repeat: no-repeat;
+    background-position: 91px -1px;
+    background-size: 31%;
+}
+.mtb-1 {
+    margin-top: 40px;
+    margin-bottom: -19px;
+}
+.b-s-1 {
+    box-shadow: 2px 5px 14px 0px #00000029;
+    border-radius: 10px;
+}
+.mt--25-2 {
+    margin-top: -25px;
+}
+.fc-bl-1 {
+    color: #3D76B7;
+} 
+.bg-02 {
+    background-image: url(../img/Artboard-1/sect-3.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+}
+.p-60-1 {
+    padding: 20px 72px 20px 52px;
+}
+.p-60-2 {
+    padding: 20px 72px 51px 52px;
+}
+.p-60-3 {
+    padding: 20px 72px 33px 52px;
+}
+.p-60-4 {
+    padding: 20px 72px 65px 52px;
+}
+
+.mt--50-s4 {
+    margin-top: -50px;
+}
+.bg-05 {
+    background-image: url(../img/Artboard-1/sect-5.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
+.sect-5-p {
+    margin-left: -36px;
+    margin-right: -30px
+}
+.ml--10 {
+    margin-left: -10px;
+}
+.ml--10-1 {
+    margin-left: -5px;
+}
+.bl-dot {
+    width: 100%;
+    height: 5px;
+    background-image: linear-gradient(to right, #0D61A1 0%,#0e3e75 50%, transparent 50%);
+    background-size: 20px 1px;
+    background-repeat: repeat-x;
+}
+.bg-text-1 {
+    background-image: url(../img/Artboard-1/bg-text.png);
+    background-repeat: no-repeat;
+    background-position: inherit;
+    background-size: 104%;
+    padding: 26px 60px;
+}
+.mlr-60 {
+    margin-left: -60px;
+    margin-right: -27px
+}
+.bg-08 {
+    background-image: url(../img/Artboard-1/sect-8.png);
+    background-repeat: no-repeat;
+    background-position: -28px;
+    background-size: 40%;
+}
+.mlr-19 {
+    margin-left: -19px;
+    margin-right: -76px;
+}
+.mlr-20 {
+    margin-left: -29px;
+    margin-right: -76px;
+}
+.bg-11 {
+    background-image: url(../img/Artboard-2/sect-11.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 280px;
+
+}
+.w-353 {
+    width: 360px;
+}
+.mt--300{
+    margin-top: -365px;
+}
+.w-105 {
+    width: 105%;
+}
+.w-103 {
+    width: 103%;
+}
+.w-106 {
+    width: 106%;
+}
+.w-110 {
+    width: 110%;
+}
+.ml--35 {
+    margin-left: 35px;
+}
+.bg-13{
+    background-image: url(../img/Artboard-2/sect-13.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+}
+.mt--67 {
+    margin-top: -67px;
+}
+.ml--33 {
+    margin-left: -33px;
+}
+.bg-15{
+    background-image: url(../img/Artboard-2/sect-15.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
+.mw-355 {
+    max-width: 390px;
+    margin-bottom: 81px;
+    margin-left: -29px;
+    margin-right: -34px
+}
+.p-28-20 {
+    padding: 30px 23px;
+}
+.g-max {
+    width: 50px;
+}
+.p-30-20 {
+    padding: 10px 20px 30px 20px;
+}
+.p-30-20-1 {
+    padding: 10px 20px 60px 20px
+}
+.p-30-20-2 {
+    padding: 10px 29px 50px 22px
+}
+.p-30-20-3 {
+    padding: 10px 29px 22px 25px
+}
+.p-30-20-4 {
+    padding: 10px 20px 77px 20px
+}
+.mt--35{
+    margin-top: -35px;
+}
+.mw-50 {
+    max-width: 50px;
+}
+.bg-24{
+    background-image: url(../img/Artboard-3/sect-24-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 370px;
+}
+.mt--200 {
+    margin-top: -360px;
+}
+.bg-25 {
+    background-image: url(../img/Artboard-3/sect-25.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+   
+}
+.mb-50 {
+    margin-bottom: 50px;
+}
+.ml--20 {
+    margin-left: -20px;
+}
+.bg-28 {
+    background-image: url(../img/Artboard-3/sect-28.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+}
+.w-654 {
+    width: 654px;
+    margin-left: -4px;
+    margin-right: -176px;
+}
+.bg-text-2 {
+    background-image: url(../img/Artboard-3/bg-text-30.png);
+    background-repeat: no-repeat;
+    background-position: inherit;
+    background-size: 95%;
+    padding: 30px 43px;
+    margin-left: -8px;
+}
+.p-35{
+    padding: 30px 35px;
+}
+.mw-135 {
+    max-width: 135px;
+}
+.ml-40{
+    margin-left: 40px;
+}
+.ml-154{
+    margin-left: 154px;
+}
+.bg-line {
+    background-image: url(../img/Artboard-3/dotted-line.png);
+    background-repeat: no-repeat;
+    background-position: 175px 385px;
+    background-size: 70%;
+}
+.bg-32{
+    background-image: url(../img/Artboard-3/sect-32.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
+.p-4{
+    padding: 17px 20px;
+}
+.ml-316 {
+    margin-left: 316px;
+}
+.p-26-42 {
+    padding: 26px 42px;
+}
+.br-21 {
+    border-radius: 21px;
+}
+.mwltr-19 {
+    margin-bottom: -20px;
+    margin-top: -226px;
+    max-width: 450px;
+    margin-left: -78px;
+    margin-right: -15px;
+}
+.mwltr-20 {
+    margin-bottom: -25px;
+    margin-top: -25px;
+    max-width: 683px;
+    margin-left: -41px;
+}
+.pb-200 {
+    padding-bottom: 200px;
+}
+.p-50-32 {
+    padding: 50px 32px;
+}
+.mt--295 {
+    margin-top: -273px;
+}
+.p-35-15 {
+    padding: 35px 15px;
+}
+.mtb-50 {
+    margin-top: -50px;
+    margin-bottom: -50px
+}
+.w-445 {
+    width: 445px;
+}
+.p-30-40 {
+    padding: 30px 40px;
+}
+.mt-70 {
+    margin-top: 60px;
+}
+.p-10-12 {
+    padding: 5px 20px 5px 10px;
+    margin-left: -5px;
+}
+.p-10-12-1 {
+    padding: 0px 10px 5px 11px;
+    margin-left: -10px;
+}
+.p-10-12-2 {
+    padding: 0px 25px 5px 11px;
+    margin-left: -10px;
+}
+.mtb--90 {
+    margin-left: 15px;
+    margin-right: -90px
+}
+.p-10-78 {
+    padding: 10px 78px 10px 20px;
+}
+.mt-115 {
+    margin-top: 115px;
+}
+.bg-line-1 {
+    background-image: url(../img/Artboard-4/bg-line-4.png);
+    background-repeat: no-repeat;
+    background-position: 131px 126px;
+    background-size: 83%;
+}
+.mtb--25{
+    margin-bottom: 20px;
+    margin-top: -25px;
+}
+.mb-95 {
+    margin-bottom: 95px;
+}
+.mwbtlr-500{
+    max-width: 545px;
+    margin-left: -32px;
+    margin-right: -96px;
+    margin-top: -20px;
+    margin-bottom: -45px;
+}
+.w-500 {
+    max-width:500px ;
+    margin-left: -10px
+}
+.ml-22300 {
+    margin-left: 22px;
+    width: 300px;
+}
+.mtb-20 {
+    margin-bottom: 20px;
+    margin-top: -10px;
+}
+.p-a {
+    position: absolute;
+}
+.mtblr {
+    margin-left: 218px;
+    margin-bottom: -129px;
+    margin-top: -205px;
+}
+.mtblr-1 {
+    margin-left: 209px;
+    margin-bottom: -64px;
+    margin-top: -205px;
+}
+.mt-15 {
+    margin-top: 15px;
+}
+.mbrl--63 {
+    margin-bottom: -20px;
+    margin-top: -35px;
+    margin-left: -14px;
+    margin-right: -63px;
+}
+.bg-43{
+    background-image: url(../img/Artboard-5/bg-43.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 280px;
+}
+.mt--315 {
+    margin-top: -315px;
+}
+.w-470{
+    width: 470px;
+}
+.bg-46{
+    background-image: url(../img/Artboard-5/sect-46-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 74%;
+   
+}
+.mtpt-200 {
+    margin-top: -200px;
+    padding-top: 200px;
+}
+.mtb--26 {
+    margin-bottom: -28px;
+    margin-top: 2px;
+    margin-left: -27px;
+    margin-right: -29px;
+}
+.p-10-30 {
+    padding: 15px 25px;
+}
+.p-35-52 {
+    padding: 52px 35px 38px 35px;
+}
+.mtbl-30 {
+    margin-top: 20px;
+    margin-bottom: -30px;
+    margin-left: 35px;
+}
+.mtblrw-440 {
+    max-width: 440px;
+    margin-left: -29px;
+    margin-bottom: -21px;
+    margin-top: -9px;
+}
+.w-405{
+    width: 405px;
+}
+.margin-0 {
+    margin: 0px;
+}
+
+

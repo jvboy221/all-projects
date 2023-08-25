@@ -1,0 +1,69 @@
+/* Header */
+.main-head{
+    max-width: 1920px;
+}
+
+
+.btn {
+    background: transparent linear-gradient(90deg, #F6AB00 0%, #E68F00 180%) 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    display: flex;
+    width: 40%;
+    color: #fff;
+    line-height: 120%;
+    font-weight: 700;
+    padding: 15px 15px;
+    align-items: center;
+    border: 4px solid #F8BC2D;
+}
+.btn:hover {
+    cursor: pointer;
+    background-image: linear-gradient(89deg,#c68a06 0%,#ee9100 100%)!important;
+}
+.header-img {
+    background-image: url(../img/header.png), linear-gradient(to right, #0D61A1, #1D90C9);
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    background-position: 100% -73px;
+    background-size: 102%;
+    padding-bottom: 369px;
+
+}
+.pads-20-40 {
+    padding: 20px 40px;
+}
+.mt--100 {
+    margin-top: -349px;
+}
+.w-103 {
+    width: 103%;
+}
+.w-104 {
+    width: 104%;
+}
+.w-102 {
+    width: 103%;
+}
+.p-5-24 {
+    padding: 5px 24px;
+}
+.p-10-20 {
+    padding: 20px 25px;
+}
+.bg-click {
+    background-image: linear-gradient(to right, #0D61A1, #1D90C9);
+}
+.mtb-1 {
+    margin-top: -7px;
+    margin-bottom: -86px;
+    margin-left: 40px;
+}
+.footer-bg {
+    background-color: #002D50;
+}
+.bl-1 {
+    color: #00ABFF;
+}
+
+
+

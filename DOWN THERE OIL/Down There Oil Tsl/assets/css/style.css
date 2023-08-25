@@ -1,0 +1,262 @@
+/* Header */
+.main-head{
+    max-width: 1920px;
+}
+.header{
+
+}
+.bg-text{
+    background-image: url(../img/header-text-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+.flower{
+    margin-bottom: -100px;
+    margin-right: -50px;
+    max-width: 150px;
+}
+.flower-1{
+    margin-bottom: -120px;
+    margin-left: -64px;
+    max-width: 150px;
+}
+.flower-3{
+    margin-bottom: -86px;
+    margin-right: -38px;
+    max-width: 150px;
+}
+.sec-3-circle{
+    margin-left: 80px;
+    margin-top: -70px;
+}
+.bg-sec-7{
+    background-image: url(../img/Artboard-1/bg-sec-7.png);
+    background-repeat: no-repeat;
+    background-position: 530px;
+    background-size: contain;
+}
+
+.bg-sec-11{
+    background-image: url(../img/Artboard-2/Pharmacy.png);
+    background-repeat: no-repeat;
+    background-position: 662px 60px;
+    background-size: contain;
+}
+
+.bg-sec-45{
+    background-image: url(../img/Artboard-5/old-couple.png);
+    background-repeat: no-repeat;
+    background-position: 630px 187px;
+    background-size: 90%;
+}
+
+.bg-sec-41{
+    background-image: url(../img/Artboard-4/Italian.png);
+    background-repeat: no-repeat;
+    background-position: 763px 15px;
+    background-size: contain;
+}
+.bg-sec-14{
+    background-image: url(../img/Artboard-2/tummy.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    /* background-size: 43% 100%; */
+}
+.bg-sec-52{
+    background-image: url(../img/Artboard-5/Beach.png);
+    background-repeat: no-repeat;
+    background-position: -434px;
+    background-size: 86%;
+}
+.sec-3-circle-1{
+    margin-right: 120px;
+    margin-top: -70px;
+}
+.sec-3-circle-2{
+    margin-right: 100px;
+    margin-top: -70px;
+}
+.one-star{
+    margin-right: 140px;
+    margin-bottom: -50px;
+}
+.bg-sales{
+    background-image: url(../img/Artboard-4/bg-sales.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.btn {
+    background: transparent linear-gradient(90deg, #FFE600 0%, #FFC400 180%) 0% 0% no-repeat padding-box;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 290px;
+    width: 90%;
+    color: #fff;
+    padding: 15px 15px;
+    align-items: center;
+}
+.btn img{
+    max-width: 44px;
+    width: 5%;
+    margin-right: -30px;
+}
+.btn:hover {
+    cursor: pointer;
+    background-image: linear-gradient(89deg,#c68a06 0%,#ee9100 100%)!important;
+}
+.btn-2 img:hover {
+    opacity: 0.9;
+}
+/* .btn-1 {
+    background: transparent linear-gradient(90deg, #FFE600 0%, #FFC400 180%) 0% 0% no-repeat padding-box;
+    border-radius: 50px;
+    border: #c68a06;
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 290px;
+    width: 100%;
+    color: #fff;
+    padding: 15px 15px;
+    align-items: center;
+}
+.btn-1 img{
+    max-width: 44px;
+    width: 5%;
+    margin-right: -30px;
+}
+.btn-1:hover {
+    cursor: pointer;
+    background-image: linear-gradient(89deg,#c68a06 0%,#ee9100 100%)!important;
+} */
+.bg-12 {
+    background-color: #F8EEEA;
+}
+.check {
+    max-width: 800px;
+}
+.sect-bot {
+    max-width: 520px;
+}
+.sixthy-days {
+    max-width: 250px;
+}
+.w-120 {
+    width: 114%;
+}
+.value-29 {
+    margin-top: -50px;
+    margin-left: -10px;
+}
+.bg-header {
+    background-image: url(../img/Artboard-1/bg-header.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 1000px
+}
+.header-marg {
+    height: 200px;
+    margin-top: 200px;
+}
+.head-image {
+    margin-top: -210px;
+}
+.flowers-head {
+    margin-bottom: -231px;
+    margin-left: 400px;
+}
+.h-1050 {
+    height: 1050px;
+}
+.mt--300 {
+    margin-top: -300px;
+}
+.mt-400 {
+    margin-top: 200px;
+}
+.mt-300 {
+    margin-top: 200px;
+}
+.bg-sect-3 {
+    background-image: url(../img/Artboard-1/bg-sect-3.png);
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: 100%;
+}
+.bg-sect-5 {
+    background-image: url(../img/Artboard-1/sect-5-bg.png);
+    background-repeat: no-repeat;
+    background-position: -0px -180px;
+    background-size: 100%;
+    height: 400px;
+   
+}
+.bg-sect-17  {
+    background-image: url(../img/Artboard-2/sect-17-bg.png);
+    background-repeat: no-repeat;
+    background-position: -0px -264px;
+    background-size: 100%;
+    height: 400px;
+}
+.sect-10-bg {
+    background-image: url(../img/Artboard-2/sect-10.png);
+    background-repeat: no-repeat;
+    background-position: -0px -90px;
+    background-size: 100%;
+}
+.petal-1 {
+    background-image: url(../img/Artboard-1/RosePetals.png);
+    background-repeat: no-repeat;
+    background-position: 1120px -10px;
+    background-size: 40%;
+}
+.petal-2 {
+    background-image: url(../img/Artboard-1/RosePetals-1.png);
+    background-repeat: no-repeat;
+    background-position: -210px 90px;
+    background-size: 30%;
+}
+.h-400 {
+    height: 400px;
+}
+.h-700 {
+    height: 700px;
+}
+.bg-20-sect {
+    background-image: url(../img/Artboard-3/bg-20.png);
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: 100%;
+}
+.bg-sec-25{
+    background-image: url(../img/Artboard-3/pretty-woman.png);
+    background-repeat: no-repeat;
+    background-position: 835px;
+    background-size: contain;
+}
+.bg-sect-30 {
+    background-image: url(../img/Artboard-3/sect-30.png);
+    background-repeat: no-repeat;
+    background-position: 0px -132px;
+    background-size: 100%;
+    height: 330px;
+}
+.mt-400-2 {
+    margin-top: 190px;
+}
+.mt-160 {
+    margin-top: 160px;
+}
+.sect-42-bg {
+    background-image: url(../img/Artboard-4/bg-45.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.w-109 {
+    width: 109%;
+}
+

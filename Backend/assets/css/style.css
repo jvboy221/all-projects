@@ -1,0 +1,52 @@
+/* Header */
+.main-head{
+    max-width: 1920px;
+}
+.header{
+    background-image: url(../img/minibanner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bg-text{
+    background-image: url(../img/header-text-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+.bg-sect-2{
+    background-image: url(../img/sect-2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bg-sect-4{
+    background-image: url(../img/sect-4.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
+.one-star{
+    margin-right: 140px;
+    margin-bottom: -50px;
+}
+.btn {
+    background: transparent linear-gradient(90deg, #FFBF47 0%, #FEAB35 180%) 0% 0% no-repeat padding-box;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 290px;
+    width: 90%;
+    color: #fff;
+    padding: 15px 15px;
+    align-items: center;
+}
+.btn img{
+    max-width: 44px;
+    width: 5%;
+    margin-right: -30px;
+}
+.btn:hover {
+    cursor: pointer;
+    background-image: linear-gradient(89deg,#c68a06 0%,#ee9100 100%)!important;
+}

@@ -1,0 +1,36 @@
+.bg-image img{
+    margin-top: 20px;
+    max-width: 561px;
+}
+.magnify-g{
+    margin-bottom: 20px;
+}
+.sorry h2{
+    color: #2C77AE;
+    font-size: 60px;
+    font-weight: 700;
+}
+.page-f{
+    max-width: 350px;
+    font-size: 23px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.redirect{
+    max-width: 672px;
+    font-size: 23px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #2C77AE;
+    padding: 20px
+}
+.redirect a{
+    color: #fff;
+    text-decoration: none;
+}
+.redirect:hover{
+    color: #f2f2f2;
+    background: #80b4da;
+    cursor: pointer;
+}
+
